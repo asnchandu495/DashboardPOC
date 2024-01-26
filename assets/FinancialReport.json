@@ -1,0 +1,310 @@
+{
+   "companyname":"Sutherland",
+   "user_name":"John Smith",
+   "user_contact":"919963803609",
+   "user_email":"john.smith234@gmail.com",
+   "menu_items":[
+      {
+         "title": "DashBoard",
+         "image": "home.png",
+         "sublist":[]
+      },
+      {
+         "title": "Graphs",
+         "image": "graph.png",
+         "sublist":[
+            {
+               "title": "Bar Chart",
+               "image": ""
+            },
+            {
+               "title": "Column Chart",
+               "image": ""
+            },
+            {
+               "title": "Line Chart",
+               "image": ""
+            },
+            {
+               "title": "Financial Chart",
+               "image": ""
+            },
+            {
+               "title": "StackedBar Chart",
+               "image": ""
+            },
+            {
+               "title": "StackedLine Chart",
+               "image": ""
+            },
+            {
+               "title": "StepArea Chart",
+               "image": ""
+            },
+            {
+               "title": "Pie Chart",
+               "image": ""
+            }
+         ]
+      },
+      {
+         "title": "Financial Reports",
+         "image": "weather.png",
+         "sublist":[]
+      },
+      {
+         "title": "Notifications",
+         "image": "notification.png",
+         "sublist":[]
+      },
+      {
+         "title": "Profile",
+         "image": "profile.png",
+         "sublist":[]
+      },
+      {
+         "title": "Settings",
+         "image": "setting.png",
+         "sublist":[]
+      }
+   ],
+   "dashboard_data":[
+      {
+         "title":"NIFTY 50",
+         "value":"18,082.85",
+         "image":"temperature.png"
+      },
+      {
+         "title":"Open",
+         "value":"18,177.90",
+         "image":"precipitation.png"
+      },
+      {
+         "title":"High",
+         "value":"18,178.75",
+         "image":"humidity.png"
+      },
+      {
+         "title":"Low",
+         "value":"18,048.65",
+         "image":"wind.png"
+      }
+   ],
+   "weekly_headers":[
+      "Date",
+      "Temperature",
+      "Wind",
+      "Precipitation",
+      "humidity"
+   ],
+   "units": {
+      "temperature": "°C",
+      "humidity": "%",
+      "precipitation":"%",
+      "wind": "km/h"
+   },
+   "weekly_data":[
+      {
+         "title":"NAME",
+         "value":"HINDALCO",
+         "title1":"LPT",
+         "value1":"421.00",
+         "title3":"%CHG",
+         "value3":"1.59",
+         "title2":"VOLUME",
+         "value2":"15,547",
+         "title4":"",
+         "value4":"",
+         "title5":"High",
+         "value5":"425.00",
+         "title6":"Low",
+         "value6":"415.00",
+         "title1_unit": "₹",
+         "title3_unit": "%",
+         "title2_unit":"₹",
+         "title4_unit": "₹"
+      },
+      {
+         "title":"NAME",
+         "value":"SUNPHARMA",
+         "title1":"LPT",
+         "value1":"1,051.00",
+         "title3":"%CHG",
+         "value3":"1.45",
+         "title2":"VOLUME",
+         "value2":"23,662",
+         "title4":"",
+         "value4":"",
+         "title5":"High",
+         "value5":"1,452.00",
+         "title6":"Low",
+         "value6":"823.00",
+         "title1_unit": "₹",
+         "title3_unit": "%",
+         "title2_unit":"₹",
+         "title4_unit": "₹"
+      },
+      {
+         "title":"NAME",
+         "value":"LPT",
+         "title1":"LPT",
+         "value1":"354.00",
+         "title3":"%CHG",
+         "value3":"1.29",
+         "title2":"VOLUME",
+         "value2":"81,509",
+         "title4":"",
+         "value4":"",
+         "title5":"High",
+         "value5":"800.00",
+         "title6":"Low",
+         "value6":"345.00",
+         "title1_unit": "₹",
+         "title3_unit": "%",
+         "title2_unit":"₹",
+         "title4_unit": "₹"
+      },
+      {
+         "title":"NAME",
+         "value":"ONGC",
+         "title1":"LPT",
+         "value1":"136.50",
+         "title3":"%CHG",
+         "value3":"1.00",
+         "title2":"VOLUME",
+         "value2":"17,499",
+         "title4":"",
+         "value4":"",
+         "title5":"High",
+         "value5":"400.00",
+         "title6":"Low",
+         "value6":"134.00",
+         "title1_unit": "₹",
+         "title3_unit": "%",
+         "title2_unit":"₹",
+         "title4_unit": "₹"
+      },
+      {
+         "title":"NAME",
+         "value":"BHARTIATL",
+         "title1":"LPT",
+         "value1":"810.00",
+         "title3":"%CHG",
+         "value3":"-3.05",
+         "title2":"VOLUME",
+         "value2":"29,925",
+         "title4":"",
+         "value4":"",
+         "title5":"High",
+         "value5":"900.00",
+         "title6":"Low",
+         "value6":"400.00",
+         "title1_unit": "₹",
+         "title3_unit": "%",
+         "title2_unit":"₹",
+         "title4_unit": "₹"
+      },
+      {
+         "title":"NAME",
+         "value":"APOLLOHOSP",
+         "title1":"LPT",
+         "value1":"4,380.00",
+         "title3":"%CHG",
+         "value3":"-2.91",
+         "title2":"VOLUME",
+         "value2":"43,118",
+         "title4":"",
+         "value4":"",
+         "title5":"High",
+         "value5":"4,388.00",
+         "title6":"Low",
+         "value6":"1,190.00",
+         "title1_unit": "₹",
+         "title3_unit": "%",
+         "title2_unit":"₹",
+         "title4_unit": "₹"
+      },
+      {
+         "title":"NAME",
+         "value":"MARUTI",
+         "title1":"LPT",
+         "value1":"9,224.15",
+         "title3":"%CHG",
+         "value3":"2.44",
+         "title2":"VOLUME",
+         "value2":"88,679",
+         "title4":"",
+         "value4":"",
+         "title5":"High",
+         "value5":"9,227.00",
+         "title6":"Low",
+         "value6":"5,456.00",
+         "title1_unit": "₹",
+         "title3_unit": "%",
+         "title2_unit":"₹",
+         "title4_unit": "₹"
+      }
+   ],
+   "profile": {
+      "view_title": "Profile",
+      "name_title": "Full Name",
+      "firstname_title": "First Name",
+      "firstname": "John",
+      "lastname_title": "Last Name",
+      "lastname": "Smith",
+      "phone_title": "Phone",
+      "phone": "919963803609",
+      "email_title": "Email Address",
+      "email": "john.smith458@gmail.com"
+   },
+   "setting": {
+      "title": "Settings",
+      "notification_title": "Notifications",
+      "notification_value": true
+   },
+   "notification": {
+      "title":"Financial Notifications",
+      "notification_list":[
+         {
+            "title":"Ugro Capital Limited",
+            "sub_title":"Ugro Capital Limited has informed the Exchange about allotment of Commercial Paper",
+            "date": "2022-10-19 12:08:00"
+         },
+         {
+            "title":"Vijaya Diagnostic Centre Limited",
+            "sub_title":"Vijaya Diagnostic Centre Limited has informed the Exchange about Schedule of Analysts/Institutional Investor Meet/Con.",
+            "date": "2022-10-20 18:23:00"
+         },
+         {
+            "title":"AGI Greenpac Limited",
+            "sub_title":"AGI : The Exchange has sought clarification from AGI Greenpac Limited with respect to recent news item",
+            "date": "2022-10-21 23:56:00"
+         },
+         {
+            "title":"Menon Bearings Limited",
+            "sub_title":"Menon Bearings Limited has informed the Exchange about related party transaction for the period ended September 2022",
+            "date": "2022-10-22 08:15:00"
+         },
+         {
+            "title":"Nazara Technologies Limited",
+            "sub_title":"Nazara Technologies Limited has informed the Exchange about Schedule of Analysts/Institutional Investor Meet/Con. Call",
+            "date": "2022-10-23 10:43:00"
+         },
+        {
+            "title":"AGI Greenpac Limited",
+            "sub_title":"AGI : The Exchange has sought clarification from AGI Greenpac Limited with respect to recent news item",
+            "date": "2022-10-21 23:56:00"
+         },
+         {
+            "title":"Menon Bearings Limited",
+            "sub_title":"Menon Bearings Limited has informed the Exchange about related party transaction for the period ended September 2022",
+            "date": "2022-10-22 08:15:00"
+         },
+         {
+            "title":"Nazara Technologies Limited",
+            "sub_title":"Nazara Technologies Limited has informed the Exchange about Schedule of Analysts/Institutional Investor Meet/Con. Call",
+            "date": "2022-10-23 10:43:00"
+         }
+      ]
+   }
+}
